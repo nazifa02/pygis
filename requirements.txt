@@ -9,7 +9,7 @@ geojson
 geopandas
 ipynb-py-convert
 kaleido
-leafmap>=0.31.0
+leafmap>=0.31.1
 localtileserver>=0.6.1
 mapclassify>=2.4.0
 mss
